@@ -1,0 +1,29 @@
+{
+  "name": "one-project-folder",
+  "version": "1.0.0",
+  "description": "This is the one project to show case all the project that i have done to the company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GobikrishnanT/one-project-folder.git"
+  },
+  "keywords": [
+    "one",
+    "project",
+    "folder",
+    "webpack",
+    "react",
+    "js",
+    "material",
+    "ui"
+  ],
+  "author": "Gobikrishnan T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GobikrishnanT/one-project-folder/issues"
+  },
+  "homepage": "https://github.com/GobikrishnanT/one-project-folder#readme"
+}
